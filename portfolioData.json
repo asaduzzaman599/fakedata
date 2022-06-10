@@ -1,0 +1,62 @@
+[
+    {
+        "_id": 1, "name": "Vehicle Portion", "descriptions": ["Store house website to control inventory management and this website build with MERN.", "User can insert, update and delete the stock and can analytic the warehouse. Protected app."], "tools": "Html, Tailwind CSS, DaisyUI, JS, ES6, Rest API, ExpressJs, NodeJs, MongoDB, Firebase, JWT Token.", "link": "https://vehicle-portion-asaduzzaman599.web.app/",
+        "clientCode": "https://github.com/asaduzzaman599/manufacturer-website-client-side",
+        "serverCode": "https://github.com/asaduzzaman599/manufacturer-website-server-side",
+        "img": ["https://i.ibb.co/K2C3dQ9/vehicle-JPG.jpg","https://i.ibb.co/BnQHmZV/screencapture-vehicle-portion-asaduzzaman599-web-app-2022-06-10-15-07-31.png","https://i.ibb.co/xMTqGy9/screencapture-vehicle-portion-asaduzzaman599-web-app-dashboard-myprofile-2022-06-10-15-13-22.png"
+            ,"https://i.ibb.co/BZZbGRp/screencapture-vehicle-portion-asaduzzaman599-web-app-dashboard-payment-628fb0a9891241d18a1a71ed-2022.png"
+            ,"https://i.ibb.co/ggWDsxD/screencapture-vehicle-portion-asaduzzaman599-web-app-login-2022-06-10-15-09-11.png"
+            ,"https://i.ibb.co/Drk5g9Y/screencapture-vehicle-portion-asaduzzaman599-web-app-signup-2022-06-10-15-09-37.png"
+            ,"https://i.ibb.co/BnQHmZV/screencapture-vehicle-portion-asaduzzaman599-web-app-2022-06-10-15-07-31.png"
+            ,"https://i.ibb.co/cbC1KnL/screencapture-vehicle-portion-asaduzzaman599-web-app-dashboard-2022-06-10-15-10-30.png"
+            ,"https://i.ibb.co/QMb1PXV/screencapture-vehicle-portion-asaduzzaman599-web-app-dashboard-add-Product-2022-06-10-15-14-40.png"
+            ,"https://i.ibb.co/23bjxKX/screencapture-vehicle-portion-asaduzzaman599-web-app-dashboard-Add-Review-2022-06-10-15-11-31.png"
+            ,"https://i.ibb.co/nscNWD9/screencapture-vehicle-portion-asaduzzaman599-web-app-dashboard-make-Admin-2022-06-10-15-15-49.png"],"about":["Vehicle Portions is a manufacture company website for taking car parts orders from there client."
+                ,"Header with responsive navbar to navigate One page to another page by react router.One page Responsive application with No relaod. Responisive UI for mobile and desktop."
+                ,"Private route for add items ensuring that user have to logged in to navigate this page and JWT for authorized from backend to secure data."
+                ,"Admin dashboard to create admin, manage product and hendle clients order."
+                ,"User can update profile information."
+                ,"separate dashboard menu for client and admin."
+                ,"User can login with Email, Password and Google account."
+                ,"User can varify and can reset password with mail."
+                ,"All items data will store in mongodb data base."
+                ,"Server created with nodejs for smooth and fast performance."
+                ,"Digital payment system with gateway"]
+    },
+    { "_id": 2, "name": "Warehouse Management Website", "descriptions": ["Store house website to control inventory management and this website build with MERN.", "User can insert, update and delete the stock and can analytic the warehouse. Protected app."], "tools": "Html, Tailwind CSS, JS, ES6, Rest API, ExpressJs, NodeJs, MongoDB, Firebase, JWT Token.", "link": "https://storehouse-asaduzzaman599.web.app/","clientCode": "https://github.com/asaduzzaman599/warehouse-management-client-side",
+        "serverCode":"https://github.com/asaduzzaman599/warehouse-management-server-side", "img":["https://i.ibb.co/t3vgBLp/store-house.jpg","https://i.ibb.co/8cgcdBq/screencapture-storehouse-asaduzzaman599-web-app-manage-2022-06-10-18-44-25.png",
+        "https://i.ibb.co/tJJQkTt/screencapture-storehouse-asaduzzaman599-web-app-myitems-2022-06-10-18-45-44.png",
+        "https://i.ibb.co/NF9nh3W/screencapture-storehouse-asaduzzaman599-web-app-register-2022-06-10-18-45-01.png",
+        "https://i.ibb.co/TB2MJqD/screencapture-storehouse-asaduzzaman599-web-app-2022-06-10-18-42-34.png",
+        "https://i.ibb.co/zJqYJMM/screencapture-storehouse-asaduzzaman599-web-app-add-2022-06-10-18-44-37.png",
+        "https://i.ibb.co/hXtyrjT/screencapture-storehouse-asaduzzaman599-web-app-contact-2022-06-10-18-45-13.png",
+        "https://i.ibb.co/JvW7ZS3/screencapture-storehouse-asaduzzaman599-web-app-login-2022-06-10-18-44-46.png"],
+    "about":["Store house controller is a website for inventory management to help maintain the warehouse product."
+        ,"Header with responsive navbar to navigate One page to another page by react router."
+        ,"One page Responsive application with No relaod. Responisive UI for mobile and desktop."
+        ,"Private route for add items ensuring that user have to logged in to navigate this page and JWT for authorized to get his added items."
+        ,"User can login with Email, Password and Google account."
+        ,"User can varify and can reset password with mail."
+        ,"All items data will store in mongodb data base."
+        ,"Server created with nodejs for smooth and first performance."]},
+    { "_id": 3, "name": "Simple ToDo App", "descriptions": ["Users can add and delete task. After Complete the app notify and strikethrough the task text.", "All data stored in database and app always protect users data. Users own task not showing to other."], "tools": "Html, Tailwind CSS, DaisyUI, JS, ES6, ReactJs, ExpressJs, NodeJs, MongoDB, Firebase, Rest API.", "link": "https://simple-todo-app-asaduzzaman599.web.app/", "img":["https://i.ibb.co/hH4TmJP/todo-app.jpg"]},
+    {
+        "_id": 4, "name": "M's Capture", "descriptions": ["User can booked services using this responsive website.", "User have to login otherwise they will not allowed for booked. Protected app."], "tools": "Html, CSS, React Bootstrap, JS, ES6, ReactJS, React Hooks, React Router, Firebase.", "link": "https://m-s-capture-asaduzzaman599.web.app/",
+        "sourseCode":"https://github.com/asaduzzaman599/independent-service-provider-client-side", "img":["https://i.ibb.co/9pSNMTB/Capture.jpg",
+            "https://i.ibb.co/hRCGLF6/screencapture-m-s-capture-asaduzzaman599-web-app-2022-06-10-19-20-36.png","https://i.ibb.co/PrHBV1r/screencapture-m-s-capture-asaduzzaman599-web-app-service-2-2022-06-10-19-21-10.png",
+            
+            "https://i.ibb.co/GWk7XHb/screencapture-m-s-capture-asaduzzaman599-web-app-login-2022-06-10-19-20-45.png",
+            "https://i.ibb.co/M9rGsS9/screencapture-m-s-capture-asaduzzaman599-web-app-register-2022-06-10-19-20-51.png"],
+            "about":["Header with responsive navbar to navigate One page to another page by react router."
+                ,"Card and responisive column with button. Responsive one page application with No relaod."
+                ,"Private checkout route ensuring that user have to logged in to navigate this page ."
+                ,"User can login wiht Email, Password and Google account."
+                ,"User can varify and can reset password with mail."]
+    }
+]
+
+
+
+
+
+
